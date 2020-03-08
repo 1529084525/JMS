@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="order.sqlite" uuid="a6e711da-5621-4692-bc48-76d5252b0cd1">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:E:\代码\IDEA\Study\JMS\delay-queue\src\main\resources\db\order.sqlite</jdbc-url>
+    </data-source>
+  </component>
+</project>

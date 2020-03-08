@@ -13,7 +13,7 @@ class DelayQueueApplicationTests {
     }
 
     void demo1() {
-        DelayQueue
+
     }
 
 }

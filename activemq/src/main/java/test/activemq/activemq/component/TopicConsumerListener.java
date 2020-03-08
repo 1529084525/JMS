@@ -4,8 +4,8 @@ import org.springframework.jms.annotation.JmsListener;
 import org.springframework.stereotype.Component;
 
 /**
- * @Author ZhiXiang
- * @create 2020/3/4 11:08
+ * @author ZhiXiang
+ * @date 2020/3/4 11:08
  */
 @Component
 public class TopicConsumerListener {
